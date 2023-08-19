@@ -115,6 +115,8 @@ body {
 }
 
 #card2 {
+  height: auto;
+  width: auto;
   display: flex;
   flex-direction: column;
   gap: 4vh;
